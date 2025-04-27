@@ -1,0 +1,8 @@
+{
+  "name": "Override Prime OAN",
+  "short_name": "OAN-LAMRI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#00fff7"
+}
